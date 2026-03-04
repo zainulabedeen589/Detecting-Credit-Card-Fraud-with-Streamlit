@@ -139,10 +139,11 @@ Your application will be live within minutes.
 
 ## 👨‍💻 Developer
 
-**Zainul Abedeen**
+## **Zainul Abedeen**
 
-GitHub: [https://github.com/zainulabedeen589](https://github.com/zainulabedeen589)
-LinkedIn: [https://linkedin.com/in/zainulabedeen589](https://linkedin.com/in/zainulabedeen589)
+### [GitHub](https://github.com/zainulabedeen589)
+
+### [LinkedIn](https://linkedin.com/in/zainulabedeen589)
 
 ---
 
