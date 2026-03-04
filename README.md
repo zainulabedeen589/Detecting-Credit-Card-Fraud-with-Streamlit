@@ -103,7 +103,7 @@ The application will automatically open in your browser.
 
 ## Application
 
-![img]("./app.png")
+![img]("app.png")
 
 ## ☁️ Deployment (Streamlit Cloud)
 
