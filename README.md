@@ -103,7 +103,7 @@ The application will automatically open in your browser.
 
 ## Application
 
-![img]("app.png")
+![img]("https://github.com/zainulabedeen589/Detecting-Credit-Card-Fraud-with-Streamlit/blob/main/app.png")
 
 ## ☁️ Deployment (Streamlit Cloud)
 
