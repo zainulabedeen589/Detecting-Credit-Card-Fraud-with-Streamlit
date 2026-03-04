@@ -101,14 +101,9 @@ The application will automatically open in your browser.
 
 ---
 
-## 📈 Model Performance
+## Application
 
-* Training Accuracy: ~ (Add your value here)
-* Testing Accuracy: ~ (Add your value here)
-
-Note: The dataset is balanced using undersampling to address class imbalance.
-
----
+![img]("./app.png")
 
 ## ☁️ Deployment (Streamlit Cloud)
 
