@@ -124,6 +124,7 @@ app.py
 Your application will be live within minutes.
 
 ---
+## Note: Data is available on Kaggle.
 
 ## 🎯 Future Improvements
 
